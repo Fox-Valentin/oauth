@@ -1,0 +1,187 @@
+{
+  "getNewsList": [
+    {
+      "id": 1,
+      "title": "数据统计",
+      "url": "http://starcraft.com"
+    },
+    {
+      "id": 2,
+      "title": "数据预测",
+      "url": "http://warcraft.com"
+    },
+    {
+      "id": 3,
+      "title": "数据推广",
+      "url": "http://overwatch.com"
+    },
+    {
+      "id": 4,
+      "title": "广告发布",
+      "url": "http://hearstone.com"
+    },
+    {
+      "id": "11"
+    },
+    {
+      "id": "BJhg4c5xZ"
+    }
+  ],
+  "login": {
+    "username": "yudongdong",
+    "userId": 666666
+  },
+  "isLogin": {
+    "status": false
+  },
+  "siginIn": {
+    "status": true
+  },
+  "getPrice": {
+    "amount": 678
+  },
+  "createOrder": {
+    "orderId": "6djk979"
+  },
+  "getOrderList": {
+    "list": [
+      {
+        "orderId": "ddj123",
+        "product": "数据统计",
+        "version": "高级版",
+        "period": "1年",
+        "buyNum": 2,
+        "date": "2016-10-10",
+        "amount": "500元"
+      },
+      {
+        "orderId": "yuj583",
+        "product": "流量分析",
+        "version": "户外版",
+        "period": "3个月",
+        "buyNum": 1,
+        "date": "2016-5-2",
+        "amount": "2200元"
+      },
+      {
+        "orderId": "pmd201",
+        "product": "广告发布",
+        "version": "商铺版",
+        "period": "3年",
+        "buyNum": 12,
+        "date": "2016-8-3",
+        "amount": "7890元"
+      }
+    ]
+  },
+  "getTreeData": [
+    {
+      "id": 1,
+      "label": "一级 1",
+      "children": [
+        {
+          "id": 4,
+          "label": "二级 1-1",
+          "children": [
+            {
+              "id": 9,
+              "label": "三级 1-1-1"
+            }, 
+            {
+              "id": 10,
+              "label": "三级 1-1-2"
+            }
+          ]
+        }
+      ]
+    }, 
+    {
+      "id": 2,
+      "label": "一级 2",
+      "children": [
+        {
+          "id": 5,
+          "label": "二级 2-1"
+        }, 
+        {
+          "id": 6,
+          "label": "二级 2-2"
+        }
+      ]
+    }, 
+    {
+      "id": 3,
+      "label": "一级 3",
+      "children": [
+        {
+          "id": 7,
+          "label": "二级 3-1"
+        }, 
+        {
+          "id": 8,
+          "label": "二级 3-2"
+        }
+      ]
+    }
+  ],
+  "getTreeCheckedData": {
+    "checkedData" : [1,4,5,9],
+    "frontId": 10
+  },
+  "submitTreeData": {
+    "info": "success"
+  },
+  "getTreeDataLasttId": 10,
+  "submitAppendOrigin": {
+    "info" : "success"
+  },
+  "submitEiditOrigin": {
+    "info" : "success"
+  },
+  "submitDeletedOrigin": {
+    "info" : "success"
+  },
+  "adminRightsUserPageDataTable":{
+    "dataTable":[{
+          "date": "2016-05-02",
+          "name": "王小虎",
+          "address": "上海市普陀区金沙江路 1518 弄",
+          "status":"y"
+        }, {
+          "date": "2016-05-04",
+          "name": "王小虎",
+          "address": "上海市普陀区金沙江路 1517 弄",
+          "status":"y"
+        }, {
+          "date": "2016-05-01",
+          "name": "王小虎",
+          "address": "上海市普陀区金沙江路 1519 弄",
+          "status":"y"
+        }, {
+          "date": "2016-05-03",
+          "name": "王小虎",
+          "address": "上海市普陀区金沙江路 1516 弄",
+          "status":"y"
+        }, {
+          "date": "2016-05-03",
+          "name": "王小虎",
+          "address": "上海市普陀区金沙江路 1516 弄",
+          "status":"y"
+        }, {
+          "date": "2016-05-03",
+          "name": "王小虎",
+          "address": "上海市普陀区金沙江路 1516 弄",
+          "status":"y"
+        }, {
+          "date": "2016-05-03",
+          "name": "王小虎",
+          "address": "上海市普陀区金沙江路 1516 弄",
+          "status":"y"
+        }, {
+          "date": "2016-05-03",
+          "name": "王小虎",
+          "address": "上海市普陀区金沙江路 1516 弄",
+          "status":"n"
+        }]
+  }
+}
